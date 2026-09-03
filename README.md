@@ -19,7 +19,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 - [Csound](https://csound.com) - Battle-tested sound and music computing system
 - [Essentia](https://essentia.upf.edu) - Comprehensive C++/Python library for audio and music analysis
 - [FluidSynth](https://www.fluidsynth.org) - Real-time software synthesizer based on the SoundFont standard
-- [Hydrogen](https://hydrogen-music.org) - Advanced drum machine for pattern-based drum programming
+- [Hydrogen](https://github.com/hydrogen-music/hydrogen) - Advanced drum machine for pattern-based drum programming
 - [librosa](https://librosa.org/) - Python library for analyzing and manipulating music/audio data
 - [Pedalboard](https://github.com/spotify/pedalboard) - Spotify's Python library for audio effects and processing
 - [pyo](https://github.com/belangeo/pyo) - Python DSP toolkit for sound synthesis/effects
@@ -42,7 +42,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 - [Google Magenta](https://magenta.tensorflow.org) - TensorFlow-based toolkit for AI music generation (MIDI/audio)
 - [LatentScore](https://github.com/prabal-rje/latentscore) - Simple text to ambient music in Python without GPU.
 - [Stable Audio](https://www.stableaudio.com/) - AI music generation with high quality and control
-- [Suno](https://www.suno.ai) - AI-powered platform for generating complete songs with vocals and instruments
+- [Suno](https://suno.com) - AI-powered platform for generating complete songs with vocals and instruments
 - [Udio](https://udio.com) - AI-powered music creation with instrument and vocal synthesis
 
 ## Music Programming Languages & Environments
@@ -67,7 +67,7 @@ A carefully curated collection of tools, languages, and libraries for music prog
 
 - [Hydra](https://hydra.ojack.xyz) - Web-based live coding visuals synced with audio
 - [Orca](https://hundredrabbits.itch.io/orca) - Live coding tool using grid-based interface
-- [Strudel](https://strudel.tidalcycles.org) - Live coding patterns using JavaScript and WebAudio
+- [Strudel](https://strudel.cc) - Live coding patterns using JavaScript and WebAudio
 - [Tone.js](https://tonejs.github.io) - Web Audio framework for interactive music in the browser
 - [Topos](https://topos.live) - Web-based live coding environment with MIDI/WebAudio
 - [VexFlow](https://www.vexflow.com) - JavaScript library for rendering music notation in the browser
@@ -83,5 +83,5 @@ This list is perfect for:
 
 ## Related Lists
 
-- [Awesome Music](https://github.com/ciconia/awesome-music#readme)
+- [Awesome Music](https://github.com/noteflakes/awesome-music)
 

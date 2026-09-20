@@ -86,3 +86,5 @@ This list is perfect for:
 
 - [Awesome Music](https://github.com/noteflakes/awesome-music)
 
+- [One Custom Song](https://onecustomsong.com) - Personalized AI songs, lyric posters, and music-video gifts from a memory or story.
+- [Songtell](https://songtell.art) - Create personalized AI songs and shareable music-video gifts from personal stories.
